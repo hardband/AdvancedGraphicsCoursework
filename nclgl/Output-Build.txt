@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: nclgl, Configuration: Debug Win32 ------
+1>main.cpp
+1>nclgl.vcxproj -> \\campus\home\Home2014\b4037136\Advanced Graphics\nclgl\Debug\nclgl.lib
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
